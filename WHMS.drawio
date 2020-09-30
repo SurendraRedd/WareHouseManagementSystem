@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T12:15:56.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ZovnYqKMcsCWzL7Hc5Uu" version="13.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-30T12:22:37.952Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="juQhkb7OH5ZmHuXpGMjg" version="13.7.6" type="github">
   <diagram id="TxHyAeO_EKfuF_f0Z2-m" name="Page-1">
-    <mxGraphModel dx="980" dy="1780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="1380" dy="1780" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,36 @@
         </mxCell>
         <mxCell id="dDEmxANPjncLgGkzcphi-16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
           <mxGeometry x="836" y="-882" width="32" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-800" width="569" height="383" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/basic-ui-2-line/32/house-home-main-menu-start-building-128.png" vertex="1" parent="1">
+          <mxGeometry x="-16" y="-794" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-19" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="444" y="-794" width="30" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essentials-pack/96/login_enter_sign_in_input_access-128.png" vertex="1" parent="1">
+          <mxGeometry x="502" y="-797" width="27" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-21" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/thefreeforty/30/thefreeforty_register-128.png" vertex="1" parent="1">
+          <mxGeometry x="379" y="-797" width="37" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-22" value="&lt;b&gt;Home Page&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="166" y="-797" width="102" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-23" value="&lt;b&gt;Sign up&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="-754" width="51" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-24" value="&lt;b&gt;User&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="433.5" y="-754" width="51" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-25" value="&lt;b&gt;Logout&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="493" y="-754" width="51" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="dDEmxANPjncLgGkzcphi-26" value="List of stocks details, such as stock items, remaining..etc" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#999999;strokeWidth=1;fillColor=#FFFFFF;fontColor=#6C767D;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=10;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="104" y="-717" width="253" height="208" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
